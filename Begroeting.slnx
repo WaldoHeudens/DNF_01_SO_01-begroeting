@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Begroeting.Tests/Begroeting.Tests.csproj" />
+  <Project Path="Begroeting/Begroeting.csproj" />
+</Solution>
